@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <idea-plugin>
-    <id>com.herbert.george.flutter-snippets</id>
-    <name>Flutter Snippets</name>
-    <vendor>George Herbert</vendor>
+    <id>com.stoll.scott.flutter-howtos</id>
+    <name>Flutter HowTos</name>
+    <vendor>Scott Stoll</vendor>
     <description><![CDATA[
-For full details of the available snippet, please <a href="https://github.com/georgeherby/flutter-snippets/blob/master/README.md">visit here</a>
+For details of how to use the How Tos, please <a href="https://github.com/ScottS2017/flutter-howtos/blob/master/README.md">visit here</a>
 ]]></description>
     <idea-version since-build="141.0" />
     <depends>com.intellij.modules.java</depends>
