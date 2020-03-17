@@ -34,7 +34,7 @@ intellij {
     sameSinceUntilBuild true
     patchPluginXml {
         version project.version
-        changeNotes "If any of these aren't working as described then please submit an issue at "
+        changeNotes "If any of these aren't working as described then please submit an issue on the Github repo"
         sinceBuild pluginSinceBuild
     }
 }
